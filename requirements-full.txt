@@ -1,0 +1,8 @@
+# Full stack (local API + dashboard + optional Postgres)
+-r requirements.txt
+flask>=3.0.0
+flask-cors>=4.0.0
+seaborn>=0.13.0
+python-dotenv>=1.0.0
+psycopg2-binary>=2.9.0
+imbalanced-learn>=0.12.0
